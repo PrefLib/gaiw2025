@@ -31,7 +31,7 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 * Acceptance Notification: TBD
 * Camera Ready: TBD
 * AAMAS Conference: May 19 - May 23, 2025
-* GAIW Workshop (WS09): TBD
+* GAIW Workshop: TBD
 
 
 <!--
