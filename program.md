@@ -4,7 +4,7 @@ title: Program
 published: true
 ---
 
-The 6th Games, Agents, and Incentives workshop will be held at AAMAS 2024
+The 6th Games, Agents, and Incentives workshop will be held at AAMAS 2025
 
 <!--
 ## Accepted Papers - Full Presentation
@@ -39,7 +39,8 @@ The 6th Games, Agents, and Incentives workshop will be held at AAMAS 2024
 -->
 
 ## Overview
-
+TBD
+<!--
 | Time | Session | Topic | Structure |
 |:----------:|:-------------:|:------:|:------:|
 |8:00-9:00| Registration | | |
@@ -53,9 +54,11 @@ The 6th Games, Agents, and Incentives workshop will be held at AAMAS 2024
 |15:30-16:30 | Poster Session & Coffee Break| | |
 |16:30-17:00 | Full Talk Session #3| Voting |2 x 15min |
 |17:00-18:00 | Keynote - Ayumi Igarashi| Envy-free division of a multi-layer cake| 1 x 1hr|
-
+-->
 
 ## Detailed Schedule
+TBD
+<!--
 
 | Time | Title | Authors | PDF |
 |:----------:|:-------------:|:------:|:------:|
@@ -91,5 +94,5 @@ The 6th Games, Agents, and Incentives workshop will be held at AAMAS 2024
 |16:30-16:45|	Project-Fair and Truthful Mechanisms for Budget Aggregation|	Rupert Freeman, Ulrike Schmidt-Kraepelin|[PDF](https://drive.google.com/file/d/1spAtfxLcYx5611AH2Z45n9q_cofiSvgC/view?usp=drive_link) |
 |16:45-17:00|	Fine-Grained Liquid Democracy for Cumulative Ballots|	Matthias Köppe, Martin Koutecky, Krzysztof Sornat, Nimrod Talmon|[PDF](https://drive.google.com/file/d/1MA9YO6sGqzMokFZnMohPY7YYI4sgdlcN/view?usp=drive_link) |
 |17:00-18:00|	Keynote: Envy-free division of a multi-layered cake	|Ayumi Igarashi| |
-
+-->
 
