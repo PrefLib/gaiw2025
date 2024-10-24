@@ -5,11 +5,11 @@ published: true
 ---
 
 ## Important Dates
-* ~~Submission Deadline: February 26, 2024 (AoE)~~
-* ~~Acceptance Notification: March 28, 2024~~
-* ~~Camera Ready: April 15, 2024 (AoE)~~
-* AAMAS Conference: May 6 - May 10, 2024
-* GAIW Workshop (WS09): May 6, 2024
+* Submission Deadline: TBD
+* Acceptance Notification: TBD
+* Camera Ready: TBD
+* AAMAS Conference: May 19 - May 23, 2025
+* GAIW Workshop (WS09): TBD
 
 
 <!--
@@ -23,6 +23,7 @@ published: true
 TBD
 
 ## Submission Site and Details
+<!--
 Authors should submit full papers electronically in PDF format. [CMT Submission Link](https://cmt3.research.microsoft.com/GAIW2024)
 
 Please use the following command if you are using the AAMAS format from the website before the `\title` command.
@@ -44,4 +45,4 @@ Please use the following command if you are using the AAMAS format from the webs
 *Anonymity:* We leave the option up to submitters (except for in the case of resubmitted work below) as to whether or not to submit single- or double- anonymous. If you wish to submit single anonymous only (i.e., authors names are revealed), please leave your name(s) on the submission. However, the submission system will be set to not reveal authors information to reviewers within the system.
 
 *Past Submissions:* In order to strike a balance between new work and work that may have been presented but not widely seen we ask that if authors want to submit published work they do so non-anonymously and clearly indicate when and where the work was published. We will only accept work which has been published in the last calendar year (e.g., IJCAI 2023, NeurIPS 2023, AAAI 2024, and any conference held after Feb. 2023).
-
+-->
