@@ -6,6 +6,8 @@ published: true
 ---
 
 ## Workshop Organizers
+TBD
+<!--
 * [Ben Abramowitz](https://benabramowitz.github.io/), Tulane University
 * [Haris Aziz](https://research.unsw.edu.au/people/associate-professor-haris-aziz), UNSW Sydney and Data61
 * [John P. Dickerson](http://jpdickerson.com/), University of Maryland
@@ -15,8 +17,11 @@ published: true
 * [Zinovi Rabinovich](https://carleton.ca/scs/people/zinovi-rabinovich/), Carleton University
 * [Alan Tsang](https://people.scs.carleton.ca/~alantsang/), Carleton University
 * [Tomasz Wąs](https://www.mimuw.edu.pl/~twas/), University of Oxford
+-->
 
 ## Program Committee
+TBD
+<!--
 Shiri Alouf-Heffetz (Ben Gurion University)<br>
 Ben Armstrong (University of Waterloo)<br>
 Lorenzo Bastianello (Ca' Foscari University of Venice)<br>
@@ -74,6 +79,7 @@ Lirong Xia (RPI)<br>
 Vahid Yazdanpanah (University of Southampton)<br>
 Guanghui Yu (Washington University in St. Louis)<br>
 Dengji Zhao (ShanghaiTech University)<br>
+-->
 
 <!--
 | Name | Institution | 
