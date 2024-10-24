@@ -9,7 +9,7 @@ published: true
 * Acceptance Notification: TBD
 * Camera Ready: TBD
 * AAMAS Conference: May 19 - May 23, 2025
-* GAIW Workshop (WS09): TBD
+* GAIW Workshop: TBD
 
 
 <!--
