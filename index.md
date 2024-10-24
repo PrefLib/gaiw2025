@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome to GAIW 2024
-subtitle: A Workshop at AAMAS 2024
+title: Welcome to GAIW 2025
+subtitle: A Workshop at AAMAS 2025
 published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/gaiwcover.png' | relative_url }}" /></p>
@@ -11,7 +11,7 @@ published: true
 ## Thanks for a Great Workshop!
 We had a great workshop this year – you can watch the full video on YouTube [Here](YouTube Link).
 
-The full program and all papers will remain available on the [Program](https://preflib.github.io/gaiw2023/program/) page.
+The full program and all papers will remain available on the [Program](https://preflib.github.io/gaiw2025/program/) page.
 
 Look forward to seeing you all next time!
 -->
@@ -26,6 +26,7 @@ Games, Agents and Incentives is a confederated workshop which focuses (obviously
 
 Over the past two decades, the focus of agent incentives in centralised and decentralised AI systems has increased dramatically. These issues come up when designing preference aggregation mechanisms and markets; computing equilibria and bidding strategies; facilitating cooperation among agents; and fairly dividing resources.
 
+<!--
 ## Important Dates
 * ~~Submission Deadline: February 26, 2024 (AoE)~~
 * ~~Acceptance Notification: March 28, 2024~~
@@ -34,11 +35,10 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 * GAIW Workshop (WS09): May 6, 2024
   
 ---
+-->
 
 ## Important Links:
-* [GAIW 2024 Submission Link](https://cmt3.research.microsoft.com/GAIW2024)
-* [Invitation Letter Request Form for Visas](https://docs.google.com/forms/d/e/1FAIpQLSfImrBpc1mtcEypalnbvQ4gMRCgeYW92cWMGSPUYD8bcogpEQ/viewform)
-* [AAMAS 2024 Conference Website](https://www.aamas2024-conference.auckland.ac.nz/)
+* [6th GAIW Website (2024)](https://preflib.github.io/gaiw2024/)
 * [5th GAIW Website (2023)](https://preflib.github.io/gaiw2023/)
 * [GAIW 2022 Program Recording](https://youtu.be/HAb1wDhZg-g)
 * [4th GAIW Website (2022)](https://preflib.github.io/gaiw2022/)
@@ -46,6 +46,11 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 * [2nd GAIW Website (2020)](http://www.agent-games-2020.preflib.org/)
 * [1st GAIW Website (2019)](http://www.agent-games-2019.preflib.org/)
 
+<!--
+* [GAIW 2024 Submission Link](https://cmt3.research.microsoft.com/GAIW2024)
+* [Invitation Letter Request Form for Visas](https://docs.google.com/forms/d/e/1FAIpQLSfImrBpc1mtcEypalnbvQ4gMRCgeYW92cWMGSPUYD8bcogpEQ/viewform)
+* [AAMAS 2024 Conference Website](https://www.aamas2024-conference.auckland.ac.nz/)
+-->
 ---
 
 ## About GAIW
