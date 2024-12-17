@@ -19,7 +19,9 @@ The 6th Games, Agents, and Incentives workshop will be held at AAMAS 2025
 <b>Fine-Grained Liquid Democracy for Cumulative Ballots</b> Matthias Köppe, Martin Koutecky, Krzysztof Sornat, Nimrod Talmon<br><br>
 <b>Fairness of Exposure in Online Restless Multi-armed Bandits</b> Archit Sood, Shweta Jain, Sujit Gujar<br><br>
 <b>EFX Under Two Outlier Valuations</b> Pratik Ghosal, Vishwa Prakash HV, Prajakta Nimbhorkar, Nithin Varma<br><br>
+-->
 
+<!--
 ## Accepted Papers - Short Presentation
 <b>Evaluating Agents using Social Choice Theory</b> Marc Lanctot, Kate Larson, Yoram Bachrach, Luke Marris, Zun Li, Avishkar Bhoopchand, Thomas Anthony, Brian Tanner, Anna Koop<br><br>
 <b>Transforming Preference Aggregation in Participatory Budgeting</b> Roy Fairstein, Dan Vilenchik, Kobi Gal<br><br>
