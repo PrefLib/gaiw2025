@@ -61,7 +61,6 @@ TBD
 ## Detailed Schedule
 TBD
 <!--
-
 | Time | Title | Authors | PDF |
 |:----------:|:-------------:|:------:|:------:|
 |8:00-9:00|	Registration	
