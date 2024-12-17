@@ -40,7 +40,7 @@ Please use the following command if you are using the AAMAS format from the webs
 
 
 ## Submission Details
-*Submission Link:* Authors should submit full papers electronically in PDF format. Please submit all papers through the [CMT Submission Link](https://cmt3.research.microsoft.com/GAIW2025)
+*Submission Link:* Authors should submit full papers electronically in PDF format. Please submit all papers through the Submission Link (TBA).
 
 *Formatting Guidelines:* Please format papers according to the AAMAS 2025 format ([Details List](https://aamas2025.org/index.php/conference/calls/submission-instructions-main-technical-track/)). Optionally, one may submit in LNCS format as well.
 
