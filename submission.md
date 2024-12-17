@@ -5,11 +5,11 @@ published: true
 ---
 
 ## Important Dates
-* Submission Deadline: TBD
-* Acceptance Notification: TBD
-* Camera Ready: TBD
+* Submission Deadline: February 11, 2025 (AoE)
+* Acceptance Notification: March 10, 2025
+* Camera Ready: April 4, 2025 (AoE)
 * AAMAS Conference: May 19 - May 23, 2025
-* GAIW Workshop: TBD
+* GAIW Workshop: May 19 or 20, 2025 (TBA)
 
 
 <!--
