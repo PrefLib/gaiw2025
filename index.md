@@ -19,6 +19,8 @@ Look forward to seeing you all next time!
 
 ## About the Games, Agents, and Incentives Workshop
 
+We invite submissions to the 7th iteration of the Games, Agents and Incentives Workshop, co-located with AAMAS 2025 in Detroit, Michigan, USA.
+
 Games, Agents and Incentives is a confederated workshop which focuses (obviously…) on agents and incentives in AI.  In particular on game theory (cooperative and non-cooperative), social choice, and agent-mediated e-commerce aspects of AI systems. The confederated workshop merges multiple workshops that have been associated with AAMAS in the past, which considered different aspects of the general interplay between AI and economics:
 * CoopMAS: Cooperative Games in Multi-agent Systems
 * AMEC:  Agent-Mediated Electronic Commerce
