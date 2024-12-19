@@ -4,7 +4,7 @@ title: Welcome to GAIW 2025
 subtitle: A Workshop at AAMAS 2025
 published: true
 ---
-<p style="text-align:center;"><img src="{{ 'img/gaiwcover.png' | relative_url }}" /></p>
+<p style="text-align:center;"><img src="{{ 'img/darter.jpg' | relative_url }}" /></p>
 
 
 <!--
