@@ -8,6 +8,7 @@ published: true
 ## Workshop Organizers
 * [Ben Abramowitz](https://benabramowitz.github.io/), Tulane University
 * [Haris Aziz](https://research.unsw.edu.au/people/associate-professor-haris-aziz), UNSW Sydney and Data61
+* [Michael Curry](https://currymj.github.io/), University of Illinois Chicago
 * [John P. Dickerson](http://jpdickerson.com/), University of Maryland
 * [Hadi Hosseini](https://faculty.ist.psu.edu/hadi/), Penn State University
 * [Nicholas Mattei](http://www.nickmattei.net/), Tulane University
@@ -15,7 +16,6 @@ published: true
 * [Zinovi Rabinovich](https://carleton.ca/scs/people/zinovi-rabinovich/), Carleton University
 * [Alan Tsang](https://people.scs.carleton.ca/~alantsang/), Carleton University
 * [Tomasz Wąs](https://www.mimuw.edu.pl/~twas/), University of Oxford
-* [Michael Curry](https://currymj.github.io/), University of Illinois Chicago
 
 ## Program Committee
 TBD
