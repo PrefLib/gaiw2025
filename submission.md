@@ -52,7 +52,7 @@ Please use the following command if you are using the AAMAS format from the webs
 *Anonymity:* We leave the option up to submitters (except for in the case of resubmitted work below) as to whether or not to submit single- or double- anonymous. If you wish to submit single anonymous only (i.e., authors names are revealed), please leave your name(s) on the submission. However, the submission system will be set to not reveal authors information to reviewers within the system.
 -->
 
-*Past Submissions:* In order to strike a balance between new work and work that may have been presented but not widely seen we ask that if authors want to submit published work they do so non-anonymously and clearly indicate when and where the work was published. We will only accept work which has been published in the last calendar year (e.g., IJCAI 2023, NeurIPS 2023, AAAI 2024, and any conference held strictly after Feb. 2023).
+*Past Submissions:* In order to strike a balance between new work and work that may have been presented but not widely seen we ask that if authors want to submit published work they do so non-anonymously and clearly indicate when and where the work was published. We will only accept work which has been published in the last calendar year (e.g., IJCAI 2024, NeurIPS 2024, AAAI 2025, and any conference held strictly after Feb. 2024).
 
 *Best Presentation Award:* The organizing committee of GAIW will be giving two awards (first-place and runner up) for best paper presentations. The award criteria include the clarity of presentation, the level of engagement, the content, and discussion handline.
 
