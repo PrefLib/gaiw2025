@@ -42,7 +42,7 @@ Please use the following command if you are using the AAMAS format from the webs
 ## Submission Details
 *Submission Link:* Authors should submit full papers electronically in PDF format. Please submit all papers through the Submission Link (TBA).
 
-*Formatting Guidelines:* Please format papers according to the AAMAS 2025 format ([Details List](https://aamas2025.org/index.php/conference/calls/submission-instructions-main-technical-track/)). Optionally, one may submit in LNCS format as well.
+*Formatting Guidelines:* Please format papers according to the AAMAS 2025 format ([Details Link](https://aamas2025.org/index.php/conference/calls/submission-instructions-main-technical-track/)). Optionally, one may submit in LNCS format as well.
 
 *Paper Length:* Papers can be at most 8 pages long in AAMAS format, or 12 pages long in LNCS format. Additional pages for may be used for references. Supplemental material can be appended at the end of the paper. However, reviewers are instructed to make their evaluations based on the main submission, and are not obligated to consult the supplemental material.
 
