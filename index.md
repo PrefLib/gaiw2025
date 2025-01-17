@@ -47,7 +47,7 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 
 ## Important Links:
 * [GAIW 2025 Submission Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/GAIW#tab-your-consoles)
-* [AAMAS 2024 Conference Website](https://aamas2025.org/)
+* [AAMAS 2025 Conference Website](https://aamas2025.org/)
 * [7th GAIW Website (2026)](https://preflib.github.io/gaiw2025/)
 * [6th GAIW Website (2024)](https://preflib.github.io/gaiw2024/)
 * [5th GAIW Website (2023)](https://preflib.github.io/gaiw2023/)
