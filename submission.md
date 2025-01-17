@@ -29,20 +29,20 @@ TBD
 Authors should submit full papers electronically in PDF format. [CMT Submission Link](https://cmt3.research.microsoft.com/GAIW2025)
 -->
 
-<!--
+
+
+
+## Submission Details
+*Submission Link:* Authors should submit full papers electronically in PDF format. Please submit all papers through the OpenReview [Submission Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/GAIW#tab-your-consoles).
+
+*Formatting Guidelines:* Please format papers according to the AAMAS 2025 format ([Details Link](https://aamas2025.org/index.php/conference/calls/submission-instructions-main-technical-track/)). Optionally, one may submit in LNCS format as well.
+
 Please use the following command if you are using the AAMAS format from the website before the `\title` command.
 
 ```
 \setcopyright{rightsretained}
-\acmConference[GAIW'24]{Appears at the 6th Games, Agents, and Incentives Workshop (GAIW-24). Held as part of the Workshops at the 22st International Conference on Autonomous Agents and Multiagent Systems.}{May 2024}{Auckland, New Zealand}{Abramowitz, Aziz, Dickerson, Hosseini, Mattei, Obraztsova, Rabinovich, Tsang, Wąs (Chairs)} 
+\acmConference[GAIW'25]{Appears at the 7th Games, Agents, and Incentives Workshop (GAIW-27). Held as part of the Workshops at the 23rd International Conference on Autonomous Agents and Multiagent Systems.}{May 2025}{Detroit, Michigan, USA}{Abramowitz, Aziz, Curry, Dickerson, Hosseini, Mattei, Obraztsova, Rabinovich, Tsang, Wąs (Chairs)} 
 ```
--->
-
-
-## Submission Details
-*Submission Link:* Authors should submit full papers electronically in PDF format. Please submit all papers through the [Submission Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/GAIW#tab-your-consoles).
-
-*Formatting Guidelines:* Please format papers according to the AAMAS 2025 format ([Details Link](https://aamas2025.org/index.php/conference/calls/submission-instructions-main-technical-track/)). Optionally, one may submit in LNCS format as well.
 
 *Paper Length:* Papers can be at most 8 pages long in AAMAS format, or 12 pages long in LNCS format. Additional pages for may be used for references. Supplemental material can be appended at the end of the paper. However, reviewers are instructed to make their evaluations based on the main submission, and are not obligated to consult the supplemental material.
 
