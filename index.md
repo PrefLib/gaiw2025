@@ -29,7 +29,7 @@ Games, Agents and Incentives is a confederated workshop which focuses (obviously
 Over the past two decades, the focus of agent incentives in centralised and decentralised AI systems has increased dramatically. These issues come up when designing preference aggregation mechanisms and markets; computing equilibria and bidding strategies; facilitating cooperation among agents; and fairly dividing resources.
 
 ## Important Dates
-* Submission Deadline: February 11, 2025 (AoE)
+* Submission Deadline: February 11, 2025 (AoE)([Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/GAIW#tab-your-consoles))
 * Acceptance Notification: March 10, 2025
 * Camera Ready: April 4, 2025 (AoE)
 * AAMAS Conference: May 19 - May 23, 2025
@@ -46,6 +46,9 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 -->
 
 ## Important Links:
+* [GAIW 2025 Submission Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/GAIW#tab-your-consoles)
+* [AAMAS 2024 Conference Website](https://aamas2025.org/)
+* [7th GAIW Website (2026)](https://preflib.github.io/gaiw2025/)
 * [6th GAIW Website (2024)](https://preflib.github.io/gaiw2024/)
 * [5th GAIW Website (2023)](https://preflib.github.io/gaiw2023/)
 * [GAIW 2022 Program Recording](https://youtu.be/HAb1wDhZg-g)
@@ -55,9 +58,7 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 * [1st GAIW Website (2019)](http://www.agent-games-2019.preflib.org/)
 
 <!--
-* [GAIW 2024 Submission Link](https://cmt3.research.microsoft.com/GAIW2024)
 * [Invitation Letter Request Form for Visas](https://docs.google.com/forms/d/e/1FAIpQLSfImrBpc1mtcEypalnbvQ4gMRCgeYW92cWMGSPUYD8bcogpEQ/viewform)
-* [AAMAS 2024 Conference Website](https://www.aamas2024-conference.auckland.ac.nz/)
 -->
 ---
 
