@@ -37,11 +37,27 @@ Authors should submit full papers electronically in PDF format. [CMT Submission 
 
 *Formatting Guidelines:* Please format papers according to the AAMAS 2025 format ([Details Link](https://aamas2025.org/index.php/conference/calls/submission-instructions-main-technical-track/)). Optionally, one may submit in LNCS format as well.
 
-Please use the following command if you are using the AAMAS format from the website before the `\title` command.
+If you are using the AAMAS format from the website please use the following command before the `\title` command:
 
 ```
 \setcopyright{rightsretained}
 \acmConference[GAIW'25]{Appears at the 7th Games, Agents, and Incentives Workshop (GAIW-25). Held as part of the Workshops at the 23rd International Conference on Autonomous Agents and Multiagent Systems.}{May 2025}{Detroit, Michigan, USA}{Abramowitz, Aziz, Curry, Dickerson, Hosseini, Mattei, Obraztsova, Rabinovich, Tsang, Wąs (Chairs)} 
+```
+
+and please remove (or comment out) the following command:
+
+```
+\makeatletter
+\gdef\@copyrightpermission{
+  \begin{minipage}{0.2\columnwidth}
+   \href{https://creativecommons.org/licenses/by/4.0/}{\includegraphics[width=0.90\textwidth]{by}}
+  \end{minipage}\hfill
+  \begin{minipage}{0.8\columnwidth}
+   \href{https://creativecommons.org/licenses/by/4.0/}{This work is licensed under a Creative Commons Attribution International 4.0 License.}
+  \end{minipage}
+  \vspace{5pt}
+}
+\makeatother
 ```
 
 *Paper Length:* Papers can be at most 8 pages long in AAMAS format, or 12 pages long in LNCS format. Additional pages for may be used for references. Supplemental material can be appended at the end of the paper. However, reviewers are instructed to make their evaluations based on the main submission, and are not obligated to consult the supplemental material.
