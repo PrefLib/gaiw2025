@@ -28,6 +28,8 @@ Games, Agents and Incentives is a confederated workshop which focuses (obviously
 
 Over the past two decades, the focus of agent incentives in centralised and decentralised AI systems has increased dramatically. These issues come up when designing preference aggregation mechanisms and markets; computing equilibria and bidding strategies; facilitating cooperation among agents; and fairly dividing resources.
 
+This year, we will be wrapping up our workshop with a joint session with the [Joint Event For Faculty Retirement](https://sites.google.com/view/jeffrworkshopaamas25/home) celebrating Jeff Rosenschein's career.  This will be held in the same room as GAIW.
+
 ## Important Dates
 * Submission Deadline: February 18, 2025 (AoE)([Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/GAIW#tab-your-consoles))
 * Acceptance Notification: March 10, 2025
@@ -48,6 +50,7 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 ## Important Links:
 * [GAIW 2025 Submission Link](https://openreview.net/group?id=ifaamas.org/AAMAS/2025/Workshop/GAIW#tab-your-consoles)
 * [AAMAS 2025 Conference Website](https://aamas2025.org/)
+* [Joint Event For Faculty Retirement - Jeff Rosenschein](https://sites.google.com/view/jeffrworkshopaamas25/home)
 * [7th GAIW Website (2025)](https://preflib.github.io/gaiw2025/)
 * [6th GAIW Website (2024)](https://preflib.github.io/gaiw2024/)
 * [5th GAIW Website (2023)](https://preflib.github.io/gaiw2023/)
