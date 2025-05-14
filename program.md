@@ -6,6 +6,7 @@ published: true
 
 The 7th Games, Agents, and Incentives workshop will be held at AAMAS 2025
 
+This year, we will be wrapping up our workshop with a joint session with the [Joint Event For Faculty Retirement](https://sites.google.com/view/jeffrworkshopaamas25/home) celebrating Jeff Rosenschein's career.  This will be held in the same room as GAIW.
 
 ## Overview
 
@@ -24,11 +25,9 @@ The 7th Games, Agents, and Incentives workshop will be held at AAMAS 2025
 |15:45-16:30| Coffee Break | |  |
 |16:30-17:00| Session #4 Full Talks | Normal-Form Games and Cooperative Games | 2 x 15min |
 |17:00-17:10| Session #4 Short Talk | Normal-Form Games and Cooperative Games | 2 x 5min |
-|17:15-18:00| [Joint Event for Faculty Retirement](https://sites.google.com/view/jeffrworkshopaamas25/home) | Celebrating Jeff Rosenschein's Career |  |
+|17:15-18:00| Joint Event for Faculty Retirement | Celebrating Jeff Rosenschein's Career |  |
 |18:00-19:00| Opening Reception | |  |
 
-
-This year, we will be wrapping up our workshop with a joint session with the [Joint Event For Faculty Retirement](https://sites.google.com/view/jeffrworkshopaamas25/home) celebrating Jeff Rosenschein's career.  This will be held in the same room as GAIW.
 
 ## Detailed Schedule
 
@@ -74,6 +73,6 @@ This year, we will be wrapping up our workshop with a joint session with the [Jo
 |17:00-17:05	|Participation Incentives in Online Cooperative Games |[PDF](https://drive.google.com/open?id=1WxA3NhtYEBEl_R19GUG9zmjILqSgo1DV) |
 |17:05-17:10	|Promises Made, Promises Kept: Safe Pareto Improvements via Ex Post Verifiable Commitments |[PDF](https://drive.google.com/open?id=1WGI3W9hCVOpC3lBbiA7MPyFjISCSXuJD) |
 |	- | - | - |
-|17:15-18:00	|Celebrating Jeff Rosenschein's Career | [Joint Event for Faculty Retirement](https://sites.google.com/view/jeffrworkshopaamas25/home) | 
+|17:15-18:00	|Celebrating Jeff Rosenschein's Career | Joint Event for Faculty Retirement | 
 |18:00-19:00	|Opening Reception | |
 
