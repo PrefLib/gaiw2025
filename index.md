@@ -35,7 +35,7 @@ This year, we will be wrapping up our workshop with a joint session with the [Jo
 * Acceptance Notification: March 10, 2025
 * Camera Ready: ~~April 4, 2025~~ Tuesday, April 8 (AoE)
 * AAMAS Conference: May 19 - May 23, 2025
-* GAIW Workshop: May 19 or 20, 2025 (TBA)
+* GAIW Workshop: May 19 or 20, 2025
 
 
 <!--
